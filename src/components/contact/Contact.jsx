@@ -5,16 +5,16 @@ import './contact.css'
 const Contact = () => {
   const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+  // const sendEmail = (e) => {
+  //   e.preventDefault();
 
-    emailjs.sendForm(
-      'service_g89w2o7',
-       'template_9qkav1g',
-        form.current, 
-        'oMn6rVIIRhNs2MTzN')
-    e.target.reset()
-  };
+  //   emailjs.sendForm(
+  //     'service_g89w2o7',
+  //      'template_9qkav1g',
+  //       form.current, 
+  //       'oMn6rVIIRhNs2MTzN')
+  //   e.target.reset()
+  // };
   return (
    <section className="contact section" id="contact">
     <h2 className="section__title">Get in Touch</h2>
