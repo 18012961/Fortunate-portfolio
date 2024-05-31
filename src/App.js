@@ -21,7 +21,7 @@ const App = () => {
  <Skills/>
  <Qualification/>
  <Work/>
- <Contact/>
+ {/* <Contact/> */}
  
 </main>
 
