@@ -27,10 +27,18 @@ color: var(--container-color);
     justify-content:center;
 }
 
+#id2{
+    height: 500px;
+}
 .work__img{
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+}
+.dior-img {
+  width: 295px;
+  border-radius: 1rem;
+  margin-bottom: var(--mb-1);
 }
 
 .work__card{
@@ -41,12 +49,14 @@ color: var(--container-color);
 
 }
 
-.work__img{
+/* .work__img{
     width:295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 
-}
+} */
+
+
 
 .work__title{
     font-size: var(--normal-font-size);
