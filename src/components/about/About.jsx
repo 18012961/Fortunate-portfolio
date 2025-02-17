@@ -14,10 +14,10 @@ const About = () => {
    <img src={REF} alt="" className="about__img" />
    <div className="about__data">
     <Details/>
-    <p className="about__description"> Dumela || Hello , i am Fotunate a full-stack developer
-     with a Diploma in Information Technology. Proficient in HTML, CSS, JavaScript, Java, and React . I excel in crafting visually appealing front-end interfaces and seamlessly integrating databases. I advocate for diversity in tech, showcasing a commitment to excellence and 
-     inclusivity in the ever-evolving 
-    field of full-stack development.</p>
+    <p className="about__description">"Dumela || Hello, I'm Fortunate, a DevOps Engineer intern with hands-on experience in full-stack development. 
+      Currently working towards my National Certificate in Design Techniques, specializing in User-Centered Design. I bring expertise in automating workflows, 
+      optimizing pipelines, and creating seamless deployments, while also having a strong foundation in HTML, CSS, JavaScript,  and React. 
+      I’m passionate about building scalable and reliable systems, all while advocating for diversity and inclusivity in tech."</p>
 
     <a download="" href={CV} className="button button--flex" style={{ backgroundColor: 'black' }}> Download CV 
     <svg

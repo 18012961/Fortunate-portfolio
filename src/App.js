@@ -10,6 +10,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
 import Work from './components/Work/Work';
+import MyCertificate from './components/coursera/MyCertificate';
 
 const App = () => {
   return (

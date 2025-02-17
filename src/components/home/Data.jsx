@@ -5,8 +5,10 @@ const Data = () => {
   return (
    <div className="home__data">
     <h1 className="home__title">Fortunate Motsoeneng </h1>
-    <h3 className="home__subtitle"> Software developer intern</h3>
-    <p className="home__description"> Software developer goddess, crafting code with fabulosity – i'm not just an intern but a digital diva, sprinkling glamour into the binary world</p>
+    <h3 className="home__subtitle"> DevOps engineer intern</h3>
+    <p className="home__description"> DevOps Intern, mastering automation and streamlining pipelines.
+       I turn chaos into smooth deployments, making systems faster and more reliable. 
+       Always optimizing, always evolving</p>
 <button
   className="button button--flex"
   onClick={() => window.location.href = "#contact"}
